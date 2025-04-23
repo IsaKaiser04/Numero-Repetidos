@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/home/isauro/Descargas/com.unl.practica/src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/isauro/Descargas/com.unl.practica/src/main/frontend/generated/jar-resources",
+  "staticOutput": "/home/isauro/Descargas/com.unl.practica/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/isauro/Descargas/com.unl.practica/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/isauro/Descargas/com.unl.practica/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/isauro/Descargas/com.unl.practica/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/isauro/Descargas/com.unl.practica/target/dev-bundle/config",
+  "jarResourcesFolder": "/home/isauro/Descargas/com.unl.practica/src/main/frontend/generated/jar-resources",
+  "themeName": "default",
+  "clientServiceWorkerSource": "/home/isauro/Descargas/com.unl.practica/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
